@@ -1,0 +1,35 @@
+head
+{
+  background-color: white;
+  font-weight: bold;
+  text-align: justify;
+}
+main
+{
+  background-color:grey;
+  padding: 2em;
+  margin: auto;
+  txt-align: justify;
+}
+body
+{
+  text-align: center;
+  font-family:serif;
+  line-height: 3em;
+}
+.Send
+{
+  color: blue;
+  text-align: center;
+  font-family: serif;
+  font-size:6px;
+
+}
+.Reply
+{
+  color: green;
+  text-align: center;
+  font-family: serif;
+  font-size: 6px
+
+}
